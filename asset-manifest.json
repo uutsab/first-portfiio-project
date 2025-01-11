@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/first-portfiio-project%20/static/css/main.75f298a0.css",
+    "main.js": "/first-portfiio-project%20/static/js/main.4a69c42e.js",
+    "static/js/453.aac68abc.chunk.js": "/first-portfiio-project%20/static/js/453.aac68abc.chunk.js",
+    "index.html": "/first-portfiio-project%20/index.html",
+    "main.75f298a0.css.map": "/first-portfiio-project%20/static/css/main.75f298a0.css.map",
+    "main.4a69c42e.js.map": "/first-portfiio-project%20/static/js/main.4a69c42e.js.map",
+    "453.aac68abc.chunk.js.map": "/first-portfiio-project%20/static/js/453.aac68abc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f298a0.css",
+    "static/js/main.4a69c42e.js"
+  ]
+}
